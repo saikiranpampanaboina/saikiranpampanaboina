@@ -1,16 +1,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Sai Kiran Pampanaboina</h1>
-<h3 align="center">A passionate Backend developer from India interested in Devops Tools</h3>
+<h3 align="center">A passionate Backend developer from India interested in Cloud technologies.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/XH3uA-aAmTykdnUJcZO0BZ2Y9qzzH-1kbp47qnPEgGg/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by9jYXJ0b29uLWJv/eS13aXRoLWNvbXB1/dGVyXzEyOTY0MjYt/MzU1MC5qcGc_c2l6/ZT02MjYmZXh0PWpw/Zw">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiranpampanaboina&label=Profile%20views&color=0e75b6&style=flat" alt="saikiranpampanaboina" /> </p>
 
-- 🔭 I’m currently working on **Devops with Nodejs and Express**
+- 🔭 I’m currently working with ** Nodejs and Express**
 
-- 🌱 I’m currently learning **Docker Kubernetes AWS Jenkins**
+- 🌱 I’m currently learning **React Node PostgressSQL and APIs**
 
-- 💬 Ask me about **Nodejs AWS Docker**
+- 💬 Ask me about **Nodejs React**
 
 - 📫 How to reach me **saikiran030700@gmail.com**
 
